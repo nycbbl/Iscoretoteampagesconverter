@@ -1,0 +1,8 @@
+"homestats.csv",,,,,,,,,,,,,,,,,,,,,,,,,,,
+"#","Name","G","MIN","FGM","FGA","FG%","2PM","2PA","2P%","3PM","3PA","3P%","FTM","FTA","FT%","OREB","DREB","REB","AST","STL","BLK","DEF","TO","PF","CHG","PM","PTS"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"#","Name","G","MIN","FGM","FGA","2PM","2PA","3PM","3PA","FTM","FTA","OREB","DREB","REB","AST","STL","BLK","DEF","TO","PF","CHG","PM","PTS",,,,
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,,,,
+"old",,,,,,,,,,,,,,,,,,,,,,,,,,,
+"#","Name",,"MIN","FGM","FGA",,,,,"threePM","3PA",,"FTM","FTA",,"OREB","DREB","REB","AST","STL","BKL",,"TO","PF","CHG",,"PTS"
